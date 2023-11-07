@@ -4,7 +4,7 @@
 Submitted by: **David Oluyomi-Lords**
 
 **BitFit1** is a health metrics app that allows users to track exercises and the time they sepent doing the exercise 
-Time spent: **72** hours spent in total
+Time spent: **100** hours spent in total
 
 ## Required Features
 
@@ -43,10 +43,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+My phone device wasn't working so I couldn't test my code.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [David Oluyomi-Lords]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
